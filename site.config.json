@@ -1,0 +1,26 @@
+{
+  "repo": "wims-bisnis",
+  "siteName": "Wim Bisnis",
+  "logoText": "bisnis",
+  "logoPrefix": "wim",
+  "tagline": "Tagline Wim Bisnis",
+  "description": "Deskripsi meta Wim Bisnis.",
+  "ogTitle": "Judul OG<br>untuk Wim Bisnis",
+  "ogSubtitle": "Subtitle OG singkat dan informatif.",
+  "category": "bisnis",
+  "categoryLabel": "Bisnis",
+  "parent": "wims",
+  "children": [],
+  "related": [
+    "wims-berita",
+    "wims-teknologi"
+  ],
+  "brand": {
+    "accent": "#10b981",
+    "accent2": "#059669"
+  },
+  "giscus": {
+    "repoId": "REPO_ID",
+    "categoryId": "CATEGORY_ID"
+  }
+}
