@@ -3,6 +3,8 @@ title: "Membangun Mindset Wirausaha Sejak Dini"
 date: "2026-08-19"
 category: "Bisnis"
 excerpt: "Cara membangun mindset wirausaha yang tangguh: berani mengambil risiko terukur, melihat peluang dari masalah, dan terus belajar dari kegagalan."
+meta_title: "Membangun Mindset Wirausaha Sejak Dini"
+meta_description: "Bangun mindset wirausaha yang tangguh: berani mengambil risiko terukur, melihat masalah sebagai peluang, dan terus belajar dari setiap kegagalan."
 tags: ["wirausaha", "mindset", "bisnis", "pengembangan diri"]
 ---
 

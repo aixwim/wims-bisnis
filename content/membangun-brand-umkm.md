@@ -3,6 +3,8 @@ title: "Membangun Identitas Brand UMKM"
 date: "2026-08-18"
 category: "Bisnis"
 excerpt: "Panduan membangun identitas brand UMKM yang kuat: nama, logo, nilai, dan konsistensi untuk menciptakan usaha yang mudah diingat."
+meta_title: "Membangun Identitas Brand UMKM"
+meta_description: "Bangun identitas brand UMKM yang kuat mulai dari nama, logo, nilai usaha, hingga konsistensi di semua kanal agar usaha Anda mudah diingat dan dipercaya."
 tags: ["branding", "identitas brand", "umkm"]
 ---
 

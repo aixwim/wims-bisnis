@@ -3,6 +3,8 @@ title: "Strategi Marketing Digital untuk Usaha Kecil"
 date: "2026-08-18"
 category: "Bisnis"
 excerpt: "Strategi pemasaran digital yang realistis untuk usaha kecil: konten, media sosial, SEO, dan email marketing dengan biaya efisien."
+meta_title: "Strategi Marketing Digital untuk Usaha Kecil"
+meta_description: "Terapkan strategi marketing digital hemat biaya untuk usaha kecil lewat konten berkualitas, media sosial, SEO, dan email marketing yang hasilnya terukur."
 tags: ["marketing digital", "promosi", "usaha kecil"]
 ---
 

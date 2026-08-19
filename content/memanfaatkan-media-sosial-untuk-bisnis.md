@@ -3,6 +3,8 @@ title: "Memanfaatkan Media Sosial untuk Bisnis"
 date: "2026-08-19"
 category: "Bisnis"
 excerpt: "Panduan memanfaatkan media sosial untuk bisnis: pilih platform tepat, bangun konten konsisten, dan ubah pengikut menjadi pelanggan setia."
+meta_title: "Memanfaatkan Media Sosial untuk Bisnis"
+meta_description: "Manfaatkan media sosial untuk bisnis dengan memilih platform yang tepat, membangun konten konsisten, dan mengubah pengikut menjadi pelanggan setia."
 tags: ["media sosial", "marketing", "digital", "bisnis"]
 ---
 

@@ -3,6 +3,8 @@ title: "Cara Memulai UMKM Digital dengan Modal Kecil"
 date: "2026-08-18"
 category: "Bisnis"
 excerpt: "Panduan praktis memulai usaha digital dengan modal terbatas, dari memilih ide usaha hingga strategi hemat biaya yang bisa langsung diterapkan pemula."
+meta_title: "Cara Memulai UMKM Digital dengan Modal Kecil"
+meta_description: "Mulai UMKM digital dengan modal kecil lewat pemilihan ide usaha yang tepat, strategi hemat biaya, dan pemanfaatan teknologi agar risiko kerugian minimal."
 tags: ["umkm", "bisnis digital", "modal kecil"]
 ---
 

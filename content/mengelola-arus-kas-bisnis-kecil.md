@@ -3,6 +3,8 @@ title: "Mengelola Arus Kas Bisnis Kecil"
 date: "2026-08-19"
 category: "Bisnis"
 excerpt: "Tips mengelola arus kas bisnis kecil: pantau pemasukan dan pengeluaran, jaga jadwal pembayaran, dan siapkan dana cadangan agar usaha tetap lancar."
+meta_title: "Mengelola Arus Kas Bisnis Kecil"
+meta_description: "Jaga arus kas bisnis kecil tetap lancar dengan memantau pemasukan dan pengeluaran mingguan, mempercepat penagihan, dan menyiapkan dana cadangan."
 tags: ["arus kas", "keuangan", "usaha kecil", "bisnis"]
 ---
 

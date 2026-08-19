@@ -3,6 +3,8 @@ title: "Strategi Harga Produk untuk UMKM"
 date: "2026-08-19"
 category: "Bisnis"
 excerpt: "Cara menentukan harga produk UMKM yang tepat: hitung biaya, kenali nilai di mata pelanggan, dan sesuaikan dengan kondisi pasar agar tetap untung."
+meta_title: "Strategi Harga Produk untuk UMKM"
+meta_description: "Tentukan harga produk UMKM dengan menghitung seluruh biaya, mempertimbangkan nilai di mata pelanggan, dan menguji strategi agar keuntungan tetap terjaga."
 tags: ["harga", "umkm", "strategi bisnis", "keuntungan"]
 ---
 

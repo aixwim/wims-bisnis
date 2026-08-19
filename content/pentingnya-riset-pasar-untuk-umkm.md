@@ -3,6 +3,8 @@ title: "Pentingnya Riset Pasar untuk UMKM"
 date: "2026-08-19"
 category: "Bisnis"
 excerpt: "Mengapa riset pasar penting bagi UMKM: memahami kebutuhan pelanggan, membaca persaingan, dan mengurangi risiko kerugian sebelum berjualan."
+meta_title: "Pentingnya Riset Pasar untuk UMKM"
+meta_description: "Riset pasar membantu UMKM memahami kebutuhan pelanggan, membaca persaingan, dan mengurangi risiko kerugian sebelum memutuskan produk yang dijual."
 tags: ["riset pasar", "umkm", "bisnis", "pelanggan"]
 ---
 

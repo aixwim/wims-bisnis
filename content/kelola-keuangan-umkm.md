@@ -3,6 +3,8 @@ title: "Mengelola Keuangan Usaha Kecil"
 date: "2026-08-18"
 category: "Bisnis"
 excerpt: "Cara mengelola keuangan UMKM: memisahkan uang pribadi dan usaha, mencatat arus kas, serta menyusun anggaran agar usaha bertahan lama."
+meta_title: "Mengelola Keuangan Usaha Kecil"
+meta_description: "Kelola keuangan UMKM dengan memisahkan uang pribadi dan usaha, mencatat arus kas secara rutin, serta menyusun anggaran agar usaha kecil bertahan lama."
 tags: ["keuangan", "umkm", "manajemen usaha"]
 ---
 
